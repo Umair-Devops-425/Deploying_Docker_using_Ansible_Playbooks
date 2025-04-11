@@ -1,4 +1,4 @@
-# Docker Installation on Multiple Servers using Ansible
+# Automated Docker Installation on Multiple Servers using Ansible
 
 This project demonstrates how to install Docker on multiple servers using An Ansible playbook. The playbook is executed from an EC2 instance, targeting multiple remote servers.
 
